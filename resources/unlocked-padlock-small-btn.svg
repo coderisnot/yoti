@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>unlocked_padlock_small_btn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="DBE-assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="unlocked_padlock_small_btn">
+            <g id="unlocked_padlock_20px">
+                <rect id="Rectangle-582" opacity="0" x="0" y="0" width="20" height="18"></rect>
+                <path d="M13.6,15.5714286 L13.6,8.42857143 L2.4,8.42857143 L2.4,15.5714286 L13.6,15.5714286 Z M14.3,17 L1,17 L1,16.2857143 L1,7 L1.7,7 L15,7 L15,7.71428571 L15,17 L14.3,17 Z" id="Rectangle-468-Copy-5" fill="#FFFFFF"></path>
+                <path d="M11,5 C11,3.34314575 12.3473909,2 13.9968697,2 L17.0031303,2 C18.6582557,2 20,3.34651712 20,5 L20,8 L11,8 L11,5 Z M12.5,5 L12.5,6.5 L18.5,6.5 L18.5,5 C18.5,4.16579723 17.8290647,3.5 17.001424,3.5 L13.998576,3.5 C13.1650298,3.5 12.5,4.17157288 12.5,5 Z M12.5,6.5 L12.5,8 L18.5,8 L18.5,6.5 L12.5,6.5 Z" id="Combined-Shape-Copy-4" fill="#FFFFFF"></path>
+                <rect id="Rectangle-17" fill="#FFFFFF" x="7.25" y="12" width="1.5" height="2"></rect>
+                <circle id="Oval-7" fill="#FFFFFF" cx="8" cy="11" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

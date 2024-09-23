@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="24px" viewBox="0 0 28 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>unlocked_padlock_upm</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="DBE-assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="unlocked_padlock_upm">
+            <g id="unlocked_padlock">
+                <rect id="Rectangle-582" fill-opacity="0.5" fill="#F97273" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M20,20 L20,10 L4,10 L4,20 L20,20 Z M21,22 L2,22 L2,21 L2,8 L3,8 L22,8 L22,9 L22,22 L21,22 Z M13,15.7344107 L13,18 L11,18 L11,15.7341197 C10.4021986,15.3900305 10,14.7454435 10,14 C10,12.8954305 10.8877296,12 12,12 C13.1045695,12 14,12.8877296 14,14 C14,14.741694 13.5997381,15.3890909 13,15.7344107 Z" id="Rectangle-468-Copy-5" fill="#9DA3A5"></path>
+                <path d="M16,6 C16,3.790861 17.7965212,2 19.9958262,2 L24.0041738,2 C26.2110077,2 28,3.79535615 28,6 L28,10 L16,10 L16,6 Z M18,6 L18,8 L26,8 L26,6 C26,4.88772964 25.1054196,4 24.0018986,4 L19.9981014,4 C18.8867064,4 18,4.8954305 18,6 Z M18,8 L18,10 L26,10 L26,8 L18,8 Z" id="Combined-Shape-Copy-4" fill="#9DA3A5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

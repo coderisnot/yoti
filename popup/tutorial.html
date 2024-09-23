@@ -1,0 +1,152 @@
+<meta http-equiv="content-type" content="text/html" charset="UTF-8" />
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="../content.css" />
+    <link type="text/css" rel="stylesheet" href="../popup.css" />
+    <link type="text/css" rel="stylesheet" href="../linked.css" />
+    <title>Yoti Password Manager Tutorial</title>
+  </head>
+
+  <body>
+    <div
+      id="yoti-tutorial-container"
+      class="tutorial-content gt-font container-fluid"
+      style="padding-bottom: 26px; text-align: center"
+    >
+      <div class="row" style="height: 24px"></div>
+      <div class="col-xs-12"></div>
+      <div class="row" style="height: 20px"></div>
+      <div class="slideshow-container">
+        <div class="mySlides fade">
+          <h3 class="text-center margin-xs-bottom-0">Remembering your logins</h3>
+          <h4>
+            Wherever you see this Yoti icon, Yoti Password Manager
+            <br />
+            will offer to remember your login details for you.
+          </h4>
+          <div id="bm-1" class="bm"></div>
+        </div>
+
+        <div class="mySlides fade">
+          <h3 class="text-center margin-xs-bottom-0">Generating strong passwords</h3>
+          <h4>
+            Yoti Password Manager can generate strong passwords
+            <br />
+            for you when you’re creating new accounts online.
+          </h4>
+          <div id="bm-2" class="bm"></div>
+        </div>
+
+        <div class="mySlides fade">
+          <h3 class="text-center margin-xs-bottom-0">Faster log in</h3>
+          <h4>
+            If you have a login saved for the website you’re visiting,
+            <br />
+            Yoti Password Manager will enter it for you. The green
+            <br />
+            circle indicates that you have a saved login.
+          </h4>
+          <div id="bm-3" class="bm"></div>
+        </div>
+
+        <div class="mySlides fade">
+          <h3 class="text-center margin-xs-bottom-0">Keeping your passwords safe</h3>
+          <h4>
+            Yoti Password Manager will lock automatically if you
+            <br />
+            haven’t used your browser for a certain amount of time.
+          </h4>
+          <div id="bm-4" class="bm"></div>
+          <div id="tryAutolock">
+            <div style="margin-top: -160px">
+              <button
+                id="tryOutLock"
+                class="btn btn-primary-1 btn--round"
+                style="font-weight: 600; width: 200px"
+              >
+                TRY OUT AUTOLOCK
+              </button>
+            </div>
+            <div class="fade" style="font-size: 12px; padding-top: 8px">
+              Try locking your account before progressing
+            </div>
+          </div>
+          <div id="tryAutolockDone" style="display: none; font-weight: 600">
+            <div style="margin-top: -120px"><img src="../resources/web/small-tick.png" /></div>
+            Done!
+          </div>
+        </div>
+
+        <div class="mySlides fade">
+          <img src="../resources/web/setup-done-tick.png" style="margin-top: 50px" />
+          <h3 class="text-center margin-xs-bottom-0">You’re ready to go!</h3>
+          <h4>
+            Now that you've completed the tutorial you're ready to
+            <br />
+            start using Yoti Password Manager.
+
+            <p>
+              If you have any questions, please check out our
+              <a
+                href="https://yoti.force.com/yotisupport/s/topic/0TO4L0000001J6jWAE/yoti-password-manager"
+                style="font-size: 22px"
+              >
+                FAQs
+              </a>
+              .
+            </p>
+          </h4>
+        </div>
+
+        <div style="margin-top: -10px">
+          <div style="margin-bottom: 30px">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+          </div>
+
+          <button
+            id="prevTutorialButton"
+            class="btn btn-primary-2 btn--round"
+            style="font-weight: 600; width: 240px; border-color: #2d9fff"
+          >
+            PREVIOUS
+          </button>
+          <button
+            id="nextTutorialButton"
+            class="btn btn-primary-1 btn--round"
+            style="font-weight: 600; width: 240px"
+          >
+            NEXT
+          </button>
+        </div>
+      </div>
+
+      <div id="ypm-extension" class="ypm-extension">
+        <div id="yotiTutorialWrapper" class="ypm-extension" style="display: none">
+          <div class="tutorial-popup-wrapper">
+            <div
+              id="yotiTutorialStatusTitle"
+              class="ypm-extension gt-font font-bold-size-16 text-left text-bold"
+            >
+              Yoti Password Manager is now locked
+            </div>
+
+            <div
+              id="yotiTutorialStatusBody"
+              class="ypm-extension gt-font font-base-size-14"
+              style="width: 100%; margin-top: 8px"
+            >
+              Tap the icon and follow the instructions to unlock your account.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="lottie.min.js"></script>
+    <script src="config.js"></script>
+    <script src="tutorial.js"></script>
+  </body>
+</html>

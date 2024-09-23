@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>more_info_upm</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="DBE-assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="more_info_upm" fill="#2D9FFF">
+            <g id="more_info" transform="translate(2.000000, 2.000000)">
+                <path d="M10,20 C15.5228475,20 20,15.5228475 20,10 C20,4.4771525 15.5228475,0 10,0 C4.4771525,0 0,4.4771525 0,10 C0,15.5228475 4.4771525,20 10,20 L10,20 Z M10,18 C5.581722,18 2,14.418278 2,10 C2,5.581722 5.581722,2 10,2 C14.418278,2 18,5.581722 18,10 C18,14.418278 14.418278,18 10,18 L10,18 Z" id="Shape" fill-rule="nonzero"></path>
+                <path d="M9.48070776,14 L12,14 L12,16 L8.48713851,16 L7,16 L8.48070776,10 L6,10 L6,8 L8.98713851,8 L11,8 L9.48070776,14 Z M11,6 C10.4477153,6 10,5.55228475 10,5 C10,4.44771525 10.4477153,4 11,4 C11.5522847,4 12,4.44771525 12,5 C12,5.55228475 11.5522847,6 11,6 Z" id="Rectangle-88"></path>
+            </g>
+        </g>
+    </g>
+</svg>

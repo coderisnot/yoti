@@ -1,0 +1,1 @@
+setTimeout((function(){document.body.style.display="block";const t=document.body.clientHeight;document.body.style.height=`${t+1}px`,requestAnimationFrame((function(){document.body.style.opacity=1,document.body.style.height=`${t+2}px`,document.body.style.height="1px"}))}),200);

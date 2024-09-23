@@ -1,0 +1,62 @@
+.ypm-extension * {
+  all: unset;
+}
+
+/* Set some basic reset styles to avoid having unexpected styles from the host websites. */
+/* P.S. The host webistes can still override Yoti style with `!important` or with a higher specificity */
+/* Use the ID where we do use it */
+#ypm-extension.ypm-extension *,
+/* Fallback for when there is no id */
+.ypm-extension.ypm-extension * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: initial;
+  float: initial;
+  font-size: 100%;
+  color: inherit;
+}
+
+#ypm-extension.ypm-extension *:before,
+#ypm-extension.ypm-extension *:after,
+.ypm-extension.ypm-extension *:before,
+.ypm-extension.ypm-extension *:after {
+  box-sizing: inherit;
+  content: none;
+}
+
+.ypm-extension address,
+.ypm-extension article,
+.ypm-extension aside,
+.ypm-extension blockquote,
+.ypm-extension details,
+.ypm-extension dialog,
+.ypm-extension dd,
+.ypm-extension div,
+.ypm-extension dl,
+.ypm-extension dt,
+.ypm-extension fieldset,
+.ypm-extension figcaption,
+.ypm-extension figure,
+.ypm-extension footer,
+.ypm-extension form,
+.ypm-extension h1,
+.ypm-extension h2,
+.ypm-extension h3,
+.ypm-extension h4,
+.ypm-extension h5,
+.ypm-extension h6,
+.ypm-extension header,
+.ypm-extension hgroup,
+.ypm-extension hr,
+.ypm-extension li,
+.ypm-extension main,
+.ypm-extension nav,
+.ypm-extension ol,
+.ypm-extension p,
+.ypm-extension pre,
+.ypm-extension section,
+.ypm-extension table,
+.ypm-extension ul {
+  display: block;
+}
